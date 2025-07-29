@@ -2,7 +2,7 @@ pkg update
 
 pkg upgrade 
 
-git clone https://github.com/Titusvirous/ToxicReport
+git clone https://github.com/redx645/redx-reportx.git
 
 pip install pyfiglet
 
